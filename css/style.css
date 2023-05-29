@@ -1,0 +1,22 @@
+@import "./global/header.css";
+@import "./global/global.css";
+
+
+/* Utilidades */
+@import "./utilidades/componentes.css";
+@import "./utilidades/tipocrafia.css";
+@import "./utilidades/cores.css";
+/* home */
+@import "./home/introducao.css";
+
+/* bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
+
+
+
+
+
+
+
+
+
